@@ -33,10 +33,10 @@ public class Application {
 		if (o != null)
 			logger.info("Final response: " + (o.getProduct().getPrice() + o.getShipment().getPrice()));
 	}
-
+/*
 	@Bean
 	public AlwaysSampler defaultSampler() {
 		return new AlwaysSampler();
 	}
-
+*/
 }

@@ -35,10 +35,10 @@ public class Application {
 		logger.info("Output order: " + order);
 		return order;
 	}
-
+/*
 	@Bean
 	public AlwaysSampler defaultSampler() {
 		return new AlwaysSampler();
 	}
-
+*/
 }

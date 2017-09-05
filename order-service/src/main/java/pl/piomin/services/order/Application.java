@@ -44,9 +44,9 @@ public class Application {
 		};
 	}
 	
-	@Bean
+/*	@Bean
 	public AlwaysSampler defaultSampler() {
 	  return new AlwaysSampler();
 	}
-	
+	*/
 }
